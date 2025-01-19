@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farhan-t-dev&theme=dracula&hide=stars,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-t-dev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-t-dev&layout=compact&theme=radical)
 
