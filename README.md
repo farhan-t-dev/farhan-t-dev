@@ -9,7 +9,7 @@ Full-stack developer. I build web applications and finish the ones already start
 - [Fletched](https://www.fletchedco.com/) — archery ballistics calculator, shipped to the App Store.
 - [PropManage](https://github.com/farhan-t-dev/PropManage) — property management, Django + React.
 - [Parts Seekr](https://www.partsseekr.com/) — photo-based parts search, Next.js.
-- [MarketFlow](https://github.com/farhan-t-dev/b2b-marketplace) — B2B marketplace, Laravel.
+- [FreelanceFLow](https://github.com/farhan-t-dev/Freelance-Tracker) — Solo-freelancer invoicing workspace with an approval-gated LLM.
 
 **Stack** — TypeScript · React · Next.js · Node · Python · Django · Laravel · PostgreSQL · Docker
 
